@@ -1,0 +1,679 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 3781,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bjt4twAACAAJ",
+   "etag": "tmz+R4MKH5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bjt4twAACAAJ",
+   "volumeInfo": {
+    "title": "Opium w rosole",
+    "authors": [
+     "Małgorzata Musierowicz"
+    ],
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8360773327"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788360773321"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 234,
+    "printType": "BOOK",
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bjt4twAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bjt4twAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=bjt4twAACAAJ&dq=opium+w+rosole&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=bjt4twAACAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Opium_w_rosole.html?hl=&id=bjt4twAACAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bjt4twAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sAMqAQAAIAAJ",
+   "etag": "smaNkYlmTRg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sAMqAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Humor i komizm językowy w wybranych powieściach Małgorzaty Musierowicz",
+    "authors": [
+     "Halina Maczunder"
+    ],
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105110548513"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 87,
+    "printType": "BOOK",
+    "categories": [
+     "Humor in literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sAMqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sAMqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=sAMqAQAAIAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=sAMqAQAAIAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Humor_i_komizm_j%C4%99zykowy_w_wybranych_pow.html?hl=&id=sAMqAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sAMqAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hSUYAQAAIAAJ",
+   "etag": "4gy/R0VApV0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hSUYAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Poznań Borejków",
+    "subtitle": "spacer z bohaterami powieści Małgorzaty Musierowicz",
+    "authors": [
+     "Małgorzata Musierowicz"
+    ],
+    "publishedDate": "2004-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8372781044"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788372781048"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Literary journeys"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=hSUYAQAAIAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=hSUYAQAAIAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pozna%C5%84_Borejk%C3%B3w.html?hl=&id=hSUYAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hSUYAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Zjechała windą na dół i wybiegła przed blok ze szczerym postanowieniem, że \u003cbr\u003e\npomoże Aurelii w poszukiwaniach. Rozejrzała się. Aurelii nie było. Nie było jej \u003cbr\u003e\npod domem ani za domem, ani na całym w ogóle podwórku&quot;. (\u003cb\u003eOpium w rosole\u003c/b\u003e, s."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q8-1AAAAIAAJ",
+   "etag": "/3zIW9feVrw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q8-1AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Kronika Wielkopolski",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISSN",
+      "identifier": "01373102"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Wielkopolska (Poland)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q8-1AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q8-1AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=Q8-1AAAAIAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=Q8-1AAAAIAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Kronika_Wielkopolski.html?hl=&id=Q8-1AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q8-1AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "rys. ; 21 cm 82-93 Literatura piękna dla dzieci i młodzieży. Literatura \u003cbr\u003e\npopularnonaukowa dla dzieci i młodzieży MUSIEROWICZ Małgorzata \u003cb\u003eOpium w\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003erosole\u003c/b\u003e / Małgorzata Musierowicz ; il. Małgorzata Musierowicz. - Łódź : „Akapit \u003cbr\u003e\nPress&quot;, [2000]."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7s9kAAAAMAAJ",
+   "etag": "SDg3rxGYqYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7s9kAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Przeboje edukacji polonistycznej",
+    "authors": [
+     "Dorota Michułka"
+    ],
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8322921624"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788322921623"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Children's literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7s9kAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7s9kAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=7s9kAAAAMAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=7s9kAAAAMAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Przeboje_edukacji_polonistycznej.html?hl=&id=7s9kAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7s9kAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(\u003cb\u003eOpium w rosole\u003c/b\u003e, s. 233) Ta sytuacja powoduje konsolidację rodziny. W ogóle \u003cbr\u003e\nwszyscy porządni ludzie są solidarni: „W naszej kamienicy mieszkają sami \u003cbr\u003e\nporządni ludzie, kochana. Nawet ci Nowaccy nagle się okazali w porządku&quot; (\u003cbr\u003e\n\u003cb\u003eOpium w\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O-5PAQAAMAAJ",
+   "etag": "vFbpur58e2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O-5PAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Polonistyka",
+    "publishedDate": "2001",
+    "description": "Czasopismo dla nauczycieli.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112060702393"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Polish philology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O-5PAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O-5PAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=O-5PAQAAMAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=O-5PAQAAMAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Polonistyka.html?hl=&id=O-5PAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O-5PAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "W mieszkaniu Aurelii – dziecka cierpiącego na niedobór miłości – mama \u003cbr\u003e\npostawiła kolację] na białym stole w kuchni, w rażącym oczy, białym świetle \u003cbr\u003e\njarzeniówek. (\u003cb\u003eOpium w rosole\u003c/b\u003e) Okazuje się, że światło może być nawet „okropne”\u003cbr\u003e\n. Kuchnia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TtkEAQAAIAAJ",
+   "etag": "JLrrmaZQN7M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TtkEAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Tym razem serio",
+    "subtitle": "(no, prawie...)",
+    "authors": [
+     "Małgorzata Musierowicz"
+    ],
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4101173"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Polish"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TtkEAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TtkEAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=TtkEAQAAIAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=TtkEAQAAIAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tym_razem_serio.html?hl=&id=TtkEAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TtkEAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "I to właśnie w sprawie \u003cb\u003eOpium w rosole\u003c/b\u003e. „ „ . Warszawa, 27 lutego 1989 szanowna \u003cbr\u003e\nrani, w pierwszych słowach mojego listu winienem wyjaśnić, dlaczego piszę go \u003cbr\u003e\ntak późno. W klasyfikacji bibliotecznej Pani książki zaliczane bywają do literatury\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xa72CwAAQBAJ",
+   "etag": "ogcV7pF/De8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xa72CwAAQBAJ",
+   "volumeInfo": {
+    "title": "W poszukiwaniu nowych rozwiązań",
+    "subtitle": "Dydaktyka języka polskiego jako obcego u progu XXI wieku",
+    "authors": [
+     "Władysław T. Miodunka",
+     "Anna Seretny"
+    ],
+    "publisher": "Wydawnictwo UJ",
+    "publishedDate": "2008-09-11",
+    "description": "Tom W poszukiwaniu nowych rozwiązań. Dydaktyka języka polskiego u progu XXI wieku zawiera teksty wystąpień uczestników VII Międzynarodowej Konferencji Stowarzyszenia „Bristol” Polskich i Zagranicznych Nauczycieli Kultury Polskiej i Języka Polskiego jako Obcego, która odbyła się w Krakowie w maju 2007 roku. Szeroko sformułowany temat pozwolił na prezentację referatów analizujących różne problemy teoretyczne i praktyczne, a także wykorzystujących rozmaite ujęcia metodologiczne. W pierwszej części tomu znalazły się referaty, które podejmują zagadnienie najważniejsze dla przyszłości nauczania języka polskiego jako obcego. Kolejne części zostały poświęcone dydaktyce elementów systemu językowego polszczyzny, interferencji, rozwijaniu i testowaniu sprawności językowych oraz pedeutologii. Nie zabrakło też miejsca na analizy i propozycje związane z kształceniem literackim i kulturowym, zarówno w kraju, jak i poza jego granicami. Celem publikacji jest zatem prezentacja najnowszych osiągnięć polonistycznej myśli glottodydaktycznej, która nadążając za glottodydaktyką światową, dotrzymuje jej kroku i sprawia, że języka polskiego naucza się tak, jak innych języków europejskich.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788323386759"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8323386757"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 524,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xa72CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xa72CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=xa72CwAAQBAJ&pg=PA148&dq=opium+w+rosole&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=xa72CwAAQBAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/W_poszukiwaniu_nowych_rozwi%C4%85za%C5%84.html?hl=&id=xa72CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xa72CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inny słownik języka polskiego PWN (2000), red. M. Bańko, t. II, Wydawnictwo \u003cbr\u003e\nNaukowe PWN, Warszawa. Musierowicz M. (2002), Kwiat kalafiora, Akapit Press, \u003cbr\u003e\nŁódź. Musierowicz M. (2003), \u003cb\u003eOpium w rosole\u003c/b\u003e, Akapit Press, Łódź. Musierowicz \u003cbr\u003e\nM."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ojYYAQAAIAAJ",
+   "etag": "gZBwAeR4K+I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ojYYAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Małgorzata Musierowicz",
+    "authors": [
+     "Towarzystwo Wiedzy Powszechnej. Wyższa Szkoła Pedagogiczna"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8388278363"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788388278365"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Children's literature, Polish"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ojYYAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ojYYAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=ojYYAQAAIAAJ&q=opium+w+rosole&dq=opium+w+rosole&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=ojYYAQAAIAAJ&dq=opium+w+rosole&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ma%C5%82gorzata_Musierowicz.html?hl=&id=ojYYAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ojYYAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Recenzja opublikowana w: „Gazeta Wyborcza&quot; 1999, sobota-niedziela 4-5 \u003cbr\u003e\nwrześnia. 1 \u003cb\u003eOpium w rosole\u003c/b\u003e zostało wydane w 1985 r. Nie mogło więc być \u003cbr\u003e\natakowane -jak utrzymuje autor recenzji - przez „Trybunę Ludu&quot; w okresie stanu \u003cbr\u003e\nwojennego."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n8J-AwAAQBAJ",
+   "etag": "4NWSGZH+6+A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n8J-AwAAQBAJ",
+   "volumeInfo": {
+    "title": "Zamień chemię na jedzenie",
+    "authors": [
+     "Julita Bator"
+    ],
+    "publisher": "Otwarte",
+    "publishedDate": "2013-08-20",
+    "description": "Książka, która nie zawiera chemii ani polepszaczy smaku! Co to znaczy zdrowo się odżywiać? Zacznij od unikania chemicznych dodatków. Nie tylko nie są potrzebne, one szkodzą! Jednego czekoladowego batona można przegryźć bez obaw, ale rozmaite barwniki, słodziki, wzmacniacze smaku i aromaty zjedzone także w płatkach śniadaniowych, w domowej(!) zupie czy lodach sumują się. I rujnują twoje zdrowie. Są przyczyną alergii, niestrawności, złego samopoczucia, a być może także zespołu ADHD. Niewiele przeprowadzono rzetelnych badań dotyczących sztucznych dodatków do żywności. Julita Bator weryfikuje dane od producentów. Ponieważ dzieci autorki wykazują silną alergię na „polepszacze” i konserwanty musiała zmienić styl odżywiania się i życia całej rodziny. Od czterech lat próbuje, nie wydając dużych sum na kupowanie wyłącznie ekologicznych produktów, żyć bez „chemii”. Jej książka może być dla nas przewodnikiem po kuchni, która pachnie tak, jak jedzenie pamiętane z naszego dzieciństwa. W dwudziestu rozdziałach udziela porad, jak unikać szkodliwej żywności, ale także jakie naczynia stosować w kuchni, jak przemycać wartościowe produkty w potrawach. Podaje 81 przepisów, które przywracają polskiej kuchni dawną, utraconą przed laty świetność.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324027842"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "832402784X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=n8J-AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=n8J-AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=n8J-AwAAQBAJ&pg=PT183&dq=opium+w+rosole&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=n8J-AwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-n8J-AwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 18.74,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=n8J-AwAAQBAJ&rdid=book-n8J-AwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.874E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Zamie%C5%84_chemi%C4%99_na_jedzenie-sample-epub.acsm?id=n8J-AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Zamie%C5%84_chemi%C4%99_na_jedzenie-sample-pdf.acsm?id=n8J-AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n8J-AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Babcia mojego męża od kilkudziesięciu lat gotuje w niedzielę rosół według tego \u003cbr\u003e\nsamego przepisu. ... W powieści Małgorzaty Musierowicz \u003cb\u003eOpium w rosole\u003c/b\u003e mała \u003cbr\u003e\nAurelia wpada do głównych bohaterów książki na niedzielny rosołek, który staje\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}
+
